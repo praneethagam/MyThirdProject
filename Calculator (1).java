@@ -34,7 +34,13 @@ public abstract class Calculator implements CalculatorInterface {
 	}
 
 
-	
+	@Override
+	public int divtwo(int num1, int num2) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+
 	
 
 
